@@ -77,5 +77,5 @@ I enjoy building offensive security tools, discovering vulnerabilities, and auto
 
 ## Connect with Me
 
-- LinkedIn
+- LinkedIn: https://www.linkedin.com/in/mustafa-mohamed-0a77a1197/
 - Email: m.bafy10@gmail.com

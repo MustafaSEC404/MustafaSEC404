@@ -34,6 +34,13 @@ I enjoy building offensive security tools, performing security assessments, and 
 - Burp Suite
 - Nmap
 - Metasploit
+- BloodHound
+- Impacket
+- SQLMap
+- Hashcat
+- Hydra
+- Wireshark
+- Nessus
 
 ## Featured Projects
 
@@ -43,13 +50,6 @@ I enjoy building offensive security tools, performing security assessments, and 
 | Active Directory Labs | AD enumeration and attack techniques |
 | Network Assessment Scripts | Automation scripts for reconnaissance |
 | Security Reports | Sample penetration testing reports |
-- BloodHound
-- Impacket
-- SQLMap
-- Hashcat
-- Hydra
-- Wireshark
-- Nessus
 
 ## Training & Certifications
 

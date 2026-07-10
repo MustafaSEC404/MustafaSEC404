@@ -1,7 +1,10 @@
 # Hi, I'm Mustafa Mohamed 👋
 
-Cybersecurity Analyst with practical experience in penetration testing, web application security, Active Directory assessments, and infrastructure administration.
-I enjoy building offensive security tools, performing security assessments, and continuously improving my technical skills through labs, research, and real-world projects.
+**Cybersecurity Analyst | Penetration Tester | Red Team | Web Application Security**
+
+I'm a cybersecurity professional with hands-on experience in penetration testing, Active Directory security assessments, and infrastructure administration.
+
+I enjoy building offensive security tools, discovering vulnerabilities, and automating security workflows using Python.
 
 ## About Me
 
@@ -23,24 +26,24 @@ I enjoy building offensive security tools, performing security assessments, and 
 - Web Application Security
 - Vulnerability Assessment
 
-### Languages
+### Programming
 
 - Python
 - Bash
 - PowerShell
 
-### Tools
+### Security Tools
 
 - Burp Suite
-- Nmap
 - Metasploit
 - BloodHound
 - Impacket
+- Nmap
 - SQLMap
+- Nessus
 - Hashcat
 - Hydra
 - Wireshark
-- Nessus
 
 ## Featured Projects
 

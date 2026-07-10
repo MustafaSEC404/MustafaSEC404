@@ -79,3 +79,9 @@ I enjoy building offensive security tools, discovering vulnerabilities, and auto
 
 - LinkedIn: https://www.linkedin.com/in/mustafa-mohamed-0a77a1197/
 - Email: m.bafy10@gmail.com
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaSEC404&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaSEC404&layout=compact&theme=tokyonight)

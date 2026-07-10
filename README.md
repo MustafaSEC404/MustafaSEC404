@@ -33,7 +33,9 @@ I enjoy building offensive security tools, performing security assessments, and 
 
 - Burp Suite
 - Nmap
-- Metasploit## Featured Projects
+- Metasploit
+
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|

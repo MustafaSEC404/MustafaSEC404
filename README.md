@@ -144,17 +144,22 @@ Contents include:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaSEC404&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaSEC404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaSEC404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaSEC404&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MustafaSEC404&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MustafaSEC404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=MustafaSEC404&theme=tokyonight&no-frame=true&margin-w=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MustafaSEC404&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophy" />
+</p>
 
 ---
 

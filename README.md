@@ -151,13 +151,6 @@ Contents include:
 
 ---
 
-## GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=MustafaSEC404&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophy" />
-</p>
-
----
 
 ## Connect with Me
 

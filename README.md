@@ -8,20 +8,20 @@ I enjoy building security tools, discovering vulnerabilities, and automating rec
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔴 Cybersecurity Analyst
-- 🌐 Web Application Penetration Testing (OWASP Top 10)
-- 🛡️ Internal Network Penetration Testing
-- 🏢 Active Directory Security Assessments
-- ⚡ Offensive Security Automation
-- 🐍 Python Developer for Security Tools
-- 💻 Windows & Linux Administration
-- ☁️ VMware & FortiGate Administration
+-  Cybersecurity Analyst
+-  Web Application Penetration Testing (OWASP Top 10)
+-  Internal Network Penetration Testing
+-  Active Directory Security Assessments
+-  Offensive Security Automation
+-  Python Developer for Security Tools
+-  Windows & Linux Administration
+-  VMware & FortiGate Administration
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### Offensive Security
 
@@ -58,9 +58,9 @@ I enjoy building security tools, discovering vulnerabilities, and automating rec
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🔥 BountyForge
+## BountyForge
 
 Offensive Security Automation Framework for Bug Bounty and Penetration Testing.
 
@@ -86,7 +86,7 @@ Offensive Security Automation Framework for Bug Bounty and Penetration Testing.
 
 ---
 
-## 📁 Cybersecurity Portfolio
+## Cybersecurity Portfolio
 
 A collection of labs, write-ups, penetration testing reports, notes, and security research documenting my learning journey.
 
@@ -101,7 +101,7 @@ Contents include:
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Active Directory Attacks
 - Red Team Operations
@@ -112,7 +112,7 @@ Contents include:
 
 ---
 
-## 🎓 Training & Certifications
+## Training & Certifications
 
 ### Security
 
@@ -134,7 +134,7 @@ Contents include:
 
 ---
 
-## 🧪 Practice Platforms
+## Practice Platforms
 
 - TryHackMe
 - Hack The Box
@@ -142,7 +142,7 @@ Contents include:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaSEC404&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -152,13 +152,13 @@ Contents include:
 
 ---
 
-## 🏆 GitHub Trophy
+## GitHub Trophy
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=MustafaSEC404&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/mustafa-mohamed-0a77a1197/
 - Email: m.bafy10@gmail.com

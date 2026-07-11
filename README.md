@@ -145,8 +145,8 @@ Contents include:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaSEC404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaSEC404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MustafaSEC404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MustafaSEC404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -158,7 +158,7 @@ Contents include:
 ## GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MustafaSEC404&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophy" />
+  <img src="https://github-profile-trophies.vercel.app/?username=MustafaSEC404&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophy" />
 </p>
 
 ---
